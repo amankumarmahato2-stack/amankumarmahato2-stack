@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Aman Kumar Mahato 👋
 
-<!--
-**amankumarmahato2-stack/amankumarmahato2-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | B.Sc. Graduate (2026)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring Data Analyst passionate about exploring data, finding useful insights, and solving real-world problems through data analysis.
+
+## 👨‍💻 About Me
+- 🎓 B.Sc. Graduate (2026)
+- 📊 Interested in Data Analytics and Data Visualization
+- 🐍 Learning Python for Data Analysis
+- 🗄️ Learning SQL and Database Management
+- 📈 Exploring Excel and Power BI
+- 🌱 Always learning new technologies and improving my skills.
+
+## 🛠️ Technical Skills
+- Python
+- Microsoft Excel
+- SQL
+- Power BI
+- Data Visualization
+- Canva
+- Adobe Photoshop
+
+## 📂 My Projects
+- Library Management System
+- Sales Data Analysis
+- Student Performance Analysis
+- Data Visualization Projects
+
+## 🎯 Career Goal
+To become a professional Data Analyst and use data to solve real-world business problems.
+
+## 📫 Connect With Me
+- GitHub: [@amankumarmahato2-stack](https://github.com/amankumarmahato2-stack)
+- Email: mahatoamankr66@gmail.com
+- Location: Bokaro, Jharkhand, India
+
+---
+⭐ Thank you for visiting my profile!
