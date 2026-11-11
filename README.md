@@ -34,7 +34,7 @@ To become a professional Data Analyst and use data to solve real-world business 
 
 ## 📫 Connect With Me
 - GitHub: [@amankumarmahato2-stack](https://github.com/amankumarmahato2-stack)
-- Email: amankumarmahato2@gmail.com @gmail.com
+- Email: amankumarmahato2@gmail.com
 - Location: Bokaro, Jharkhand, India
 
 ---
